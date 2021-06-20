@@ -1,2 +1,4 @@
 # Project exclude paths
-/out/
+.idea/
+/out/production/project1/p1.class
+/project1.iml
